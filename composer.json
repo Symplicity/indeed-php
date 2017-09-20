@@ -1,0 +1,14 @@
+{
+    "name": "indeedlabs/indeed-php",
+    "type": "library",
+    "description": "A client library for using the Indeed Jobsearch API",
+    "license": "proprietary",
+    "require": {
+    },
+    "config": {
+    },
+    "autoload": {
+    },
+    "autoload-dev": {
+    }
+}
